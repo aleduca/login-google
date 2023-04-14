@@ -1,0 +1,17 @@
+{
+    "name": "xande/auth-google",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexandre Cardoso",
+            "email": "xandecar@hotmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.13"
+    }
+}
